@@ -40,4 +40,4 @@
 [instagram]: https://www.instagram.com/nithiyarasanb/
 [linkedin]: https://www.linkedin.com/in/nithiyarasanb/
 [facebook]: https://www.facebook.com/profile.php?id=100081090430226
-[github]: https://github.com/loozerdanger01
+[github]: https://github.com/nithiyarasanb
